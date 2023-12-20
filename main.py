@@ -2,7 +2,6 @@ import torch
 import torch_geometric
 import itertools
 
-#from torch.utils.data import DataLoader
 from torch_geometric.loader import DataLoader
 from torch.nn import Module, CrossEntropyLoss, NLLLoss, MSELoss
 from torch_geometric.datasets import FakeDataset

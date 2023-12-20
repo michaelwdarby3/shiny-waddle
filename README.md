@@ -8,6 +8,7 @@ pip3 install torch_geometric
 pip3 install torch_sparse
 pip3 install torch_scatter
 pip3 install sklearn
+pip3 install itertools
 ```
 
 ## How to Run
